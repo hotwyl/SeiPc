@@ -8,6 +8,13 @@ Software para lhe auxiliar na identificação de informações do computador.
 
 Esta aplicação possui um conjunto de ferramenta Windows para diagnostico e manutenção. Com estas é possível gerar os relatórios básicos de hardwares, periféricos, sistema e algumas configurações no computador em que está executando. Com o foco principal de auxiliar na obtenção de informações do computador afim de desenvolver a importante tarefe de realizar checagens para elaboração de relatórios do inventario de computadores e ativos.
 
+- **[Download](https://sourceforge.net/projects/info-pc/files/latest/download)**
+
+<p><img src="https://github.com/hotwyl/SeiPc/blob/master/infopc1.jpg" alt=" "></p>
+<p><img src="https://github.com/hotwyl/SeiPc/blob/master/infopc2.jpg" alt=" "></p>
+
+
+
 # Sei Pc
 
 ### Evolução - Uma nova versão
@@ -20,6 +27,13 @@ Pensado para quem precisa ter rapidamente informações dos hardwares e software
 
 A aplicação conta com ferramentas nativas do Windows e Scripts criados. Além de algumas aplicações de terceiros. Com estas é possível gerar os relatórios básicos de hardwares, periféricos, sistema e algumas configurações no computador em que está executando. Com o foco principal de auxiliar na obtenção de informações do computador afim de desenvolver a importante tarefe de realizar checagens para elaboração de relatórios do inventario de computadores e ativos.
 
+- **[Download](https://downloads.sourceforge.net/project/sei-pc/SeiPc%20%20%5BSetup%20-%20Install%5D.exe?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fsei-pc%2F&ts=1579563054&use_mirror=pilotfiber)**
+
+<p><img src="https://github.com/hotwyl/SeiPc/blob/master/seipc1.jpg" alt=" "></p>
+<p><img src="https://github.com/hotwyl/SeiPc/blob/master/seipc2.jpg" alt=" "></p>
+
+
+
 ## Pré-requisitos
 
 * Software Executavel
@@ -29,4 +43,6 @@ A aplicação conta com ferramentas nativas do Windows e Scripts criados. Além 
 
 * Desenvolvido com C#
 * Incrementado com scripts Bash
+
+- **[Contato / Informações](www.3wonline.com)**
 

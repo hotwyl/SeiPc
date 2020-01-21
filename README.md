@@ -36,7 +36,8 @@ Pensado para quem precisa ter rapidamente informações dos hardwares e software
 
 Somando as versões anteriores e adicionando varios recursos. Pensando em facilitar as rotinas para tecnicos de informática. Esta versão ainda é demo.
 
-<p><img src="" alt=" "></p>
+<p><img src="https://github.com/hotwyl/SeiPc/blob/master/Slide1.JPG" alt=" "></p>
+<p><img src="https://github.com/hotwyl/SeiPc/blob/master/Slide2.JPG" alt=" "></p>
 
 ## Pré-requisitos
 
